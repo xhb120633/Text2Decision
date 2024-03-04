@@ -1,4 +1,4 @@
-### Text2Decision Pipeline Overview
+### [Text2Decision Pipeline Overview](https://openreview.net/forum?id=fEoemPDicz&referrer=%5Bthe%20profile%20of%20Hua-Dong%20Xiong%5D(%2Fprofile%3Fid%3D~Hua-Dong_Xiong1)
 
 The **Text2Decision** pipeline is an approach to pre-train a neural network model with the goal of mapping semantic space to decision-related cognitive space.
 
